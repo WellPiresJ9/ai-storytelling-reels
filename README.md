@@ -13,19 +13,19 @@ Skills gratuitas do [Well Pires](https://www.youtube.com/@WellPiresAI) e do AI M
 **Opção 1: pedir pro próprio Hermes.** Cole no chat:
 
 ```
-Instala essa skill: https://github.com/WellPiresJ9/ai-makers-skills/tree/main/skills/storytelling-reels
+Instala essa skill: https://github.com/WellPiresJ9/ai-storytelling-reels/tree/main/skills/storytelling-reels
 ```
 
 **Opção 2: comando no terminal**
 
 ```bash
-hermes skills install WellPiresJ9/ai-makers-skills/skills/storytelling-reels
+hermes skills install WellPiresJ9/ai-storytelling-reels/skills/storytelling-reels
 ```
 
 **Opção 3: receber todas as skills do AI Makers** (elas passam a aparecer em *Capabilities → Skills* no app)
 
 ```bash
-hermes skills tap add WellPiresJ9/ai-makers-skills
+hermes skills tap add WellPiresJ9/ai-storytelling-reels
 ```
 
 Depois de instalar, **abra uma sessão nova** e use:
